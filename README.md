@@ -22,3 +22,4 @@ I am looking for an opportunity to build a long-term relationship with great cli
 - Discord: BlockchainHero#9055
 - Skype: live:.cid.d119939130532a0f
 - Gmail: talentdeveloper59@gmail.com
+- Phone: +1 360 680 1240
