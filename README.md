@@ -9,18 +9,14 @@ Thank you for checking my profile!!!
 - Looking for an opportunity to build a long-term relationship with great clients all over the world.
 
 ### Skills 🔭
-- Ethereum, Binance, Fantom, Avalanche, Cosmos, Solana
+- Ethereum, Binance, Fantom, Avalanche, Cosmos, Solana, Aptos
+- DeFi, Dex, Token, ICO, NFT
+- Web3.js, Cosm.js
 - Solidity, Rust, Go
+- Hardhat, Truffle, Remix
 - HTML, CSS, JavaScript, Bootstrap, jQuery, Ajax
 - React, Angular, React, Vue, Node, Express, D3, Three
 - Core PHP, Laravel, CodeIgniter, Yii, Yii2, Phalcon, Symphony
 - Django, Flask
 - MySQL, MongoDB, SQLite
 - Github, Bitbucket, Gitlab, SVN
-
-### Contact 📞
-- Telegram: https://t.me/SuperBlockchainMan
-- Discord: BlockchainHero#9055
-- Skype: live:.cid.d119939130532a0f
-- Gmail: talentdeveloper59@gmail.com
-- Phone: +1 360 680 1240
