@@ -3,7 +3,7 @@ Thank you for checking my profile!!!
 
 ### About Me 😊
 Hello
-Being a Top 1% Senior Blockchain Developer, I have 5 years of experience in these fields-decent expertise in Blockchain development including DeFi, Token ICO, NFT, Cosmos Blockchain and custom smart contract application development technologies.
+Being a Top 1% Senior Blockchain Developer, I have over 5 years of experience in these fields-decent expertise in Blockchain development including DeFi, Token ICO, NFT, Cosmos Blockchain and custom smart contract application development technologies.
 I am responsible for designing and implementing new innovative features and application architecture, ensuring high-performance and availability, and managing all blockchain development & technical aspects.
 I work closely with project stakeholders and end customers to provide an effective, visually appealing, and intuitive implementation.
 Are you looking for a full time & dedicated blockchain developer to develop a user friendly high-end functionality smart contracts or Blockchain application?
